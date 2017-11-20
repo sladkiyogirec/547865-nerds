@@ -10,7 +10,7 @@
   	       
             <div class="logo-main">
             <a class="logo">
-          <img src="img/svg-nerds/nerds-logo.svg" alt="Логотип Нёрдс">
+          <img src="/img/nerds-logo.png" alt="Логотип Нёрдс">
           </a>
             </div>
           <!--Навигация.Начало-->
@@ -20,8 +20,7 @@
           <li class="menu-item"><a href="references.html">Клиенты</a></li>
           <li class="menu-item"><a href="catalog.html">Магазин</a></li>
           <li class="menu-item"><a href="contacts.html">Контакты</a></li>
-          <li class="basket-icon"><img src="/img/svg-nerds/cart-icon.svg"></li>
-          <li class="basket"><a href="basket.html">Корзина</a></li>
+          <li class="basket-icon"><a href="basket.html">Корзина</a></li>
         </ul>
         </nav>
         <!--Навигация.Конец-->
@@ -37,7 +36,7 @@
         <p class="slider-text">Никакого креатива, только математические формулы<br>для расчета идеальных пропорций.
         </p>
         <a class="btn btn-red" href="#">Узнать больше</a>
-        <img src="/img/index/slide1.jpg" alt="Слайдер 1">
+        <img src="/Users/meserakovurij/Documents/GitHub/Nerds project/547865-nerds/img/index/slide1.jpg">
         </div>
 
       <label for="slide-2"></label>
@@ -46,7 +45,7 @@
         <p clas="slider-heading">Только ночь,<br> только хардкор</p>
         <p class="slider-text">Работать днем, как все? Мы против этого.<br>Ближе к полуночи работа только начинается.</p>
         <a class="btn btn-red" href="#">Узнать больше</a>
-        <img src="/img/index/slide2.jpg" alt="Слайдер 2">
+        <img src="/Users/meserakovurij/Documents/GitHub/Nerds project/547865-nerds/img/index/slide2.jpg">
         </div>
 
      <label for="slide-3"></label>
@@ -56,11 +55,8 @@
         <p clas="slider-heading">Любим математику<br>как никто другой</p>
         <p class="slider-text">Работать днем, как все? Мы против этого.<br>Ближе к полуночи работа только начинается.</p>
         <a class="btn btn-red" href="#">Узнать больше</a>
-        <img src="/img/index/slide3.jpg" alt="Слайдер 3">
+        <img src="/Users/meserakovurij/Documents/GitHub/Nerds project/547865-nerds/img/index/slide3.jpg">
         </div>
-
-        
-
 
     </section>
  
@@ -70,21 +66,21 @@
         <section class="services">
         <ul class="services-list">
           <li class="services-item">
-            <img src="/img/index/illustration-1.png">
+            <img src="#">
             <h4>Веб-сайты</h4>
             <p>Мир никогда не будеи прежним<br>после того как увидит ваш сайт!
                 </p>
                   <a href="#" class="web-sites-button">Заказать</a>
               </li>
                <li class="services-item">
-            <img src="/img/index/illustration-2.png">
+            <img src="#">
             <h4>Приложения</h4>
             <p>Покорите топ-10 приложений<br>в AppStore и Google Play
                 </p>
                 <a href="#" class="apps-button">Заказать</a>
               </li>
                <li class="services-item">
-            <img src="/img/index/illustration-3.png">
+            <img src="#">
             <h4>Презентации</h4>
             <p>Вы даже не подозреваете,<br>насколько вы изумительны!
                 </p>
@@ -109,7 +105,7 @@
                     </section>
 
                     <section class="info">
-                      <img scr="/img/index/nerds-illustration.png">
+                      <img scr="#">
                       <p class="text-strong">С 2004 года любим точность во всём:</p>
                       <ul>
                         <li><span>146<sup>%</sup></span>Уровень самоотдачи</li>
@@ -121,10 +117,10 @@
                  <!--Клиенты.Начало-->
                   <section class="references">
                     <ul class="references-list">
-                      <li><img src="/img/index/logo-1.png" alt="HTML Academy"></li>
-                      <li><img src="/img/index/logo-2.png" alt="Барбершоп Бородинский"></li>
-                      <li><img src="/img/index/logo-3.png" alt="Pink"></li>
-                      <li><img src="/img/index/logo-4.png" alt="Mishka"></li>
+                      <li><img src="#" alt="HTML Academy"></li>
+                      <li><img src="#" alt="Барбершоп Бородинский"></li>
+                      <li><img src="#" alt="Pink"></li>
+                      <li><img src="#" alt="Mishka"></li>
                     </ul>
                   </section>
                   <!--Клиенты.Конец-->
@@ -140,14 +136,11 @@
                       <a class="btn-main" href="#">Напишите нам</a>
                     </adress>
 
-                    <div class="map">
-                      <img src="/img/map.png">
-
                       <div class="footer-social">
                           <ul class=social-button>
-                      <li><a class="social-button" href="#" alt="VK"><img scr="/img/svg-nerds/vk-icon.svg" alt="VK"></a></li>
-                      <li><a class="social-button" href="#" alt="FB"><img scr="/img/svg-nerds/fb-icon.svg" alt="Facebook"></a></li>
-                      <li><a class="social-button" href="#" alt="Instagram"><img scr="/img/svg-nerds/insta-icon.svg" alt="Инстаграм"></a></li>
+                      <li><a class="social-button" href="#" alt="VK"><img scr="#"></a></li>
+                      <li><a class="social-button" href="#" alt="FB"><img scr="#"></a></li>
+                      <li><a class="social-button" href="#" alt="Instagram"><img scr="#"></a></li>
                       </ul>
                       <h3>Давайте дружить это выгодно!</h3>
                           <p>Скидка 10% для друзей из социальных сетей.</p>
